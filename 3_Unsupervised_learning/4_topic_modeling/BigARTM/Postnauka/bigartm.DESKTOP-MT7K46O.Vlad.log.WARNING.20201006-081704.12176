@@ -1,0 +1,6 @@
+Log file created at: 2020/10/06 08:17:04
+Running on machine: DESKTOP-MT7K46O
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W1006 08:17:04.461166  9664 helpers.cc:231] File already exists: postnauka_batches\aaaaaa.batch
+W1006 08:17:04.918193 19800 helpers.cc:231] File already exists: postnauka_batches\aaaaab.batch
+W1006 08:41:16.797279 11852 check_messages.h:1121] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
